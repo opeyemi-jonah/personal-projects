@@ -1,0 +1,37 @@
+h1{
+
+color: GREEN;
+text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  background-color:black;
+  height: 300px;
+  width:200px;
+
+}
+#One{
+  background-color: #734B5E;
+height: 300px
+}
+#two{
+  background-color: #BCBDC0;
+/*height: 300px*/
+}
+#three{
+  background-color: #565857;
+/*height: 300px*/
+}
+#four{
+  background-color: #8A8D91;
+/*height: 300px*/
+}
+#five{
+  background-color: #F5D3C8;
+height: 300px
+
+}
